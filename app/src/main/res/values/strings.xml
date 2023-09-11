@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sih</string>
+    <string name="choose_your_job_type">Choose Your Job Type</string>
+    <string name="desc">Choose whether you are looking for a job or\n you are an organization/company that needs employees.</string>
+    <string name="find_a_job">Find a Job</string>
+    <string name="find_an_employee">Find an Employee</string>
+    <string name="i_want_to_find_a_n_for_me">I want to find a\n for me.</string>
+    <string name="i_want_to_find_n_employees">I want to find \n employees.</string>
+</resources>
